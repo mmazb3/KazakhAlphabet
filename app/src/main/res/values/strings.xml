@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Қазақ Әліпбиі</string>
+    <string name="letter_a">А әрпі</string>
+    <string name="letter_a2">Ә әрпі</string>
+    <string name="letter_b">Б әрпі</string>
+    <string name="letter_v">В әрпі</string>
+    <string name="letter_g">Г әрпі</string>
+    <string name="letter_g2">Ғ әрпі</string>
+</resources>
